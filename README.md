@@ -1,5 +1,11 @@
-🏗️ Within this context, we have successfully divided the monolithic architecture into eight distinct modules, each with a different port. 
-Each of these modules operates independently, meaning they can function autonomously. This independence ensures that if one module is shut down or encounters an issue, 
-the remaining modules can continue to run smoothly without interruptions. This modular approach enhances the system's overall robustness and flexibility, making it easier to manage and scale. 🚀
+## Modular Microservices Architecture Overview
 
-- ![MicroServieceOverview.png](https://github.com/T0MM11Y/MicroserviceArchiutectureManageSchool/blob/main/MicroServieceOverview.png)
+In this project, we have transitioned from a monolithic architecture to a modular microservices-based system, successfully dividing the application into eight distinct modules—each running on its own dedicated port. Every module is designed to operate independently, allowing for autonomous functionality and seamless service continuity.
+
+This independence means that if one module is stopped or encounters an issue, the remaining modules continue to function without disruption. This approach significantly enhances overall system robustness, flexibility, and scalability, making management and future development much more efficient.
+
+Take a look at the system architecture below:
+
+<p align="center">
+  <img src="https://github.com/T0MM11Y/MicroserviceArchiutectureManageSchool/blob/main/MicroServieceOverview.png" width="600"/>
+</p>
